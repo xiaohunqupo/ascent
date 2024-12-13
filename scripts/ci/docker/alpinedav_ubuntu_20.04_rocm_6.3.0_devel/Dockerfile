@@ -65,6 +65,7 @@ RUN apt-get update && apt-get -y install \
              rocfft-dev      \
              rocprim-dev     \
              rocrand-dev     \
+             rocthrust-dev     \
              hiprand-dev     \
              openssh-server \
              language-pack-en \
